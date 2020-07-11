@@ -1,3 +1,3 @@
-# File > New > Xcode > Project
+# Xcode > File > New > Project
 
 Sample Project for the Medium Article 
